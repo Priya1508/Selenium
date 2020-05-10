@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class PalindromeString {
+
+	public static void main(String[] args) {
+		
+		String name="mom";
+		String rev=" ";
+		int leng=name.length();
+		for(int i=leng-1;i>=0;i--) {
+			rev=rev+name.charAt(i);
+		}
+		if(name.equals(rev)) {
+			System.out.println("String is palindrome");
+		}
+		else {
+			System.out.println("String is not palindrome");
+		}
+
+	}
+
+}

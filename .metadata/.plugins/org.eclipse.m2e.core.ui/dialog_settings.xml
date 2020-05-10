@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="F:\Priya Nagare\DataDrivenFramework\pom.xml"/>
+			<item value="F:\Priya Nagare\ObjectRepository\src\main\java\com\bridgelabz\objectrepository\ObjectRepository\ReadPropFile.java"/>
+			<item value="F:\Priya Nagare\Amazon\src\main\java\com\bridgelabz\amazon\AmazonApp.java"/>
+			<item value="F:\Priya Nagare\RestAssured"/>
+			<item value="F:\Priya Nagare\Bookswagon\src\main\java\com\bridgelabz\bookswagon\Bookswagon\BooksWagon.java"/>
+			<item value="F:\Priya Nagare\Bookswagon\src\main\java\com\bridgelabz\bookswagon\Bookswagon\Bookswagon.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.bridgelabz.keyworddriven.KeywordDriven"/>
+			<item value="com.bridgelabz.fileupload.FileUpload"/>
+			<item value="com.bridgelabz.datadrivenframework.DataDrivenFramework"/>
+			<item value="com.bridgelabz.filedownload.FileDownload"/>
+			<item value="com.bridgelabz.objectrepository.ObjectRepository"/>
+			<item value="com.bridgelabz.facebook.Facebook"/>
+			<item value="com.bridgelabz.amazon.Amazon"/>
+			<item value="com.bridgelabz.restassured.Restassured"/>
+			<item value="com.bridgelabz.newshacker.Newshacker"/>
+			<item value="com.bridgelabz.bookswagon.Bookswagon"/>
+		</list>
+		<list key="groupId">
+			<item value="com.bridgelabz.keyworddriven"/>
+			<item value="com.bridgelabz.fileupload"/>
+			<item value="com.bridgelabz.datadrivenframework"/>
+			<item value="com.bridgelabz.filedownload"/>
+			<item value="com.bridgelabz.objectrepository"/>
+			<item value="com.bridgelabz.facebook"/>
+			<item value="com.bridgelabz.amazon"/>
+			<item value="com.bridgelabz.restassured"/>
+			<item value="com.bridgelabz.newshacker"/>
+			<item value="com.bridgelabz.bookswagon"/>
+		</list>
+		<list key="artifactId">
+			<item value="KeywordDriven"/>
+			<item value="FileUpload"/>
+			<item value="DataDrivenFramework"/>
+			<item value="FileDownload"/>
+			<item value="ObjectRepository"/>
+			<item value="Facebook"/>
+			<item value="Amazon"/>
+			<item value="Restassured"/>
+			<item value="Newshacker"/>
+			<item value="Bookswagon"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

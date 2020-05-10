@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class test {
+		
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int i=1,num=100;
+System.out.println("Prime numbers from 1 to 100 are");
+while(i<=num)
+	if(num%i==2)
+		System.out.println("prime nubers are"+num);
+	else
+		System.out.println("not prime numbers"+num);
+i++;
+
+
+
+}
+	}
+
+
